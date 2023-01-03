@@ -30,7 +30,6 @@ public class DrawShapes {
             System.out.println();
         }
     }
-
     public static void drawTriangle(int size) {
         for(int i = 1; i <= size; i++) {
             for(int j = 0; j < i; j++) {
